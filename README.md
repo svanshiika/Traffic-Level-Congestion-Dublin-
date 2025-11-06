@@ -1,6 +1,6 @@
 <!-- Banner (upload your pink banner image and use its GitHub raw link here) -->
 <p align="center">
-  <img src="/Users/vanshikasharma/Downloads/banner.png" width="80%">
+  <img src="banner.png" width="80%">
 </p>
 
 <h1 align="center">✨ Dublin Traffic Congestion Prediction ✨</h1>
