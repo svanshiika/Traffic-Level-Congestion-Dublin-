@@ -1,6 +1,6 @@
 <!-- Banner (upload your pink banner image and use its GitHub raw link here) -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="80%">
+  <img src="/Users/vanshikasharma/Downloads/banner.png" width="80%">
 </p>
 
 <h1 align="center">✨ Dublin Traffic Congestion Prediction ✨</h1>
@@ -33,7 +33,7 @@ Then it says:
 
 ---
 
-## 💅 Models Tried
+## 🖥️ Models Tried
 | Model | Performance | Vibes |
 |------|------|------|
 | Logistic Regression | Okay-ish | Basic starter foundation |
