@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">✨ Dublin Traffic Congestion Prediction ✨</h1>
-<p align="center">A machine learning project but make it cute 💗</p>
+<p align="center">An Advanced Machine Learning Project  💗</p>
 
 ---
 
